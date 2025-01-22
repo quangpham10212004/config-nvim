@@ -26,6 +26,10 @@ vim.cmd [[
   Plug 'https://github.com/flazz/vim-colorschemes'
   Plug 'https://github.com/neoclide/coc.nvim'
   Plug 'https://github.com/Mofiqul/dracula.nvim'
+  Plug 'https://github.com/neoclide/coc.nvim'
+  Plug 'https://github.com/nvim-telescope/telescope.nvim'
+  Plug 'https://github.com/clangd/coc-clangd'
+  Plug 'https://github.com/neovim/nvim-lspconfig'
 
   call plug#end()
 

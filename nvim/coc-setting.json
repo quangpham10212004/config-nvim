@@ -1,0 +1,7 @@
+{
+  "tsserver.maxTsServerMemory": 4096,
+  "suggest.enable": true,
+  "suggest.autoTrigger": "always",
+  "suggest.noselect": false
+}
+
