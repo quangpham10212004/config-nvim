@@ -11,7 +11,7 @@ vim.opt.mouse = 'a'
 
 
 vim.cmd [[
-  let g:plug_home = 'D:\config-nvim\nvim\plug.vim'
+  let g:plug_home = 'D:\config-nvim\nvim\autoload\plug.vim'
 
   
   call plug#begin('D:\config-nvim\vim-plugins')
